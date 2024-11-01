@@ -98,10 +98,16 @@ header{
  .order-btn:hover{
     background-color: lightpink;
     color: black;
+    transition: 2s;
+    transition-duration: 2s;
+    transition-delay: 1s;
  }
  .Demo-btn:hover{
     background-color: black;
     color: white;
+    transition: 2s;
+    transition-duration: 2s;
+    transition-delay: 1s;
  }
  .section2{
     background-image: url(Homepage-Model-S-Desktop-US.avif);
